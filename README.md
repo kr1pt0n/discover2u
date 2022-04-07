@@ -11,6 +11,5 @@
     ┌─[kr1pt0n@lab]─[~]
     └──╼ $ chmod +x d2u.sh
     
-
     ┌─[kr1pt0n@lab]─[~]
     └──╼ $ ./d2u.sh
