@@ -3,7 +3,7 @@
 
 [+] Script en bash que funciona como scanner de host mediante trazas icmp.
 
-*Checa el codigo, modifica el segmento de red que deseas scanear y ejecuta el script.
+*Revisa el codigo, modifica el segmento de red que deseas escanear y ejecuta el script.
 
     ┌─[kr1pt0n@lab]─[~]
     └──╼ $ ./d2u.sh
