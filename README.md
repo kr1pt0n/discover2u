@@ -26,7 +26,7 @@
     [+] Host 192.168.1.65 - ACTIVE
     [+] Host 192.168.1.87 - ACTIVE
     [+] Host 192.168.1.90 - ACTIVE
-    [+] Host 192.168.1.95- ACTIVE
+    [+] Host 192.168.1.95 - ACTIVE
     [+] Host 192.168.1.99 - ACTIVE
     [+] Host 192.168.1.253 - ACTIVE
     [+] Host 192.168.1.254 - ACTIVE
