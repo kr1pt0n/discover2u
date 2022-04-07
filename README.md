@@ -1,5 +1,5 @@
 # discover2u
-![imagen](https://media.geeksforgeeks.org/wp-content/uploads/Screenshot-from-2018-05-30-14-29-08.png)
+![imagen](https://blog.desdelinux.net/wp-content/uploads/2014/07/banner_linux_II.jpg)
 
 [+] Script en bash que funciona como scanner de host mediante trazas icmp.
 
