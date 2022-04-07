@@ -5,4 +5,5 @@
 
 *Checa el codigo, modifica el segmento de red que deseas scanear y ejecuta el script
 
-    ./d2u.sh
+    ┌─[kr1pt0n@lab]─[~]
+    └──╼ $ ./d2u.sh
