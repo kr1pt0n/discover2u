@@ -1,7 +1,7 @@
 # discover2u
 ![imagen](https://www.ccn.cni.es/images/slides/banner-actualidad.jpg)
 
-[+] Script en bash que funciona como scanner de host mediante trazas icmp.
+[+] Script en bash que funciona como scanner de hosts mediante trazas icmp, usando este protocolo realiza trazas a distintos equipos que se encuentre en el segmento de red asignado, devolviendo un codigo de estado 0 o 1 y reportando como salida el valor y variable que se le ha asignado.
 
 *Revisa el codigo, modifica el segmento de red que deseas escanear y ejecuta el script.
     
