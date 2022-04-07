@@ -6,6 +6,9 @@
 *Revisa el codigo, modifica el segmento de red que deseas escanear y ejecuta el script.
     
     ┌─[kr1pt0n@lab]─[~]
+    └──╼ $ git clone https://github.com/kr1pt0n/discover2u
+    
+    ┌─[kr1pt0n@lab]─[~]
     └──╼ $ sed 's/192.168.1/tu_segmento_de_red/' -i d2u.sh
 
     ┌─[kr1pt0n@lab]─[~]
