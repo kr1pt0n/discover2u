@@ -17,10 +17,18 @@
     ┌─[kr1pt0n@lab]─[~]
     └──╼ $ ./d2u.sh
     [+] Host 192.168.1.1 - ACTIVE
-    [+] Host 192.168.1.19 - ACTIVE
+    [+] Host 192.168.1.12 - ACTIVE
     [+] Host 192.168.1.14 - ACTIVE
-    [+] Host 192.168.1.17 - ACTIVE
-    [+] Host 192.168.1.11 - ACTIVE
+    [+] Host 192.168.1.15 - ACTIVE
+    [+] Host 192.168.1.25 - ACTIVE
+    [+] Host 192.168.1.53 - ACTIVE
+    [+] Host 192.168.1.54 - ACTIVE
+    [+] Host 192.168.1.65 - ACTIVE
+    [+] Host 192.168.1.87 - ACTIVE
+    [+] Host 192.168.1.90 - ACTIVE
+    [+] Host 192.168.1.95- ACTIVE
+    [+] Host 192.168.1.99 - ACTIVE
     [+] Host 192.168.1.253 - ACTIVE
     [+] Host 192.168.1.254 - ACTIVE
+
 
