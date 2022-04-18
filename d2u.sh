@@ -3,7 +3,7 @@
 #Funcion para cancelar el script
 
 function ctrl_c(){
-        echo -e "\n\n[!] Cancelando el scritp... \n"
+        echo -e "\n\n[!] Cancelando el scanneo... \n"
         tput cnorm;exit 1
 }
 
